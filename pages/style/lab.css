@@ -1,0 +1,67 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    background-color: rgb(223, 241, 247);
+}
+h2{
+    text-align: center;
+    margin: 30px auto;
+    color: lightskyblue;
+    font-size: 32px;
+}
+.lab-section > .a{
+    padding: 10px;
+    background-color: wheat;
+    margin: 20px;
+    border-radius: 8px;
+
+}
+
+p{
+    text-align: center;
+    margin: 20px  auto;
+    font-size: 15px;
+}
+.navbar {
+    background-color: lightsalmon;
+    padding: 5px;
+    width: auto;
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 5px 15px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    align-items: center;
+}
+
+.footer {
+    color: teal;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+
+.links{
+    list-style: none;
+    font-size: 20px;
+}
+
+
+

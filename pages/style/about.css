@@ -1,0 +1,74 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    background-color: lightblue;
+}
+h2{
+    text-align: center;
+    margin: 30px auto;
+    color: lightsalmon;
+    font-size: 32px;
+    text-shadow: 2px 2px lightcoral, 0 0 20px orange;
+}
+.about-section {
+    padding: 10px;
+    background-color: wheat;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.me {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center; 
+}
+
+.me img {
+    width: 50%;
+    height: auto; 
+    border-radius: 8px; 
+}
+
+p{
+    text-align: center;
+    margin: 20px  auto;
+    font-size: 15px;
+}
+.navbar {
+    background-color: lightsalmon;
+    padding: 5px;
+    width: auto;
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 5px 15px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    align-items: center;
+}
+
+.footer  {
+    color: teal;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+
+
+
